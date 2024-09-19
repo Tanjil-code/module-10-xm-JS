@@ -87,6 +87,7 @@
                        
 
 
+        //8)countVowels
 
         function countVowels(str) {
             const vowels = 'aeiouAEIOU'; 
